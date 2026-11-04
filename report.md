@@ -33,7 +33,7 @@ Coin Master 的商业规模已由第三方长期跟踪。Sensor Tower 在 2024 �
 这款产品的核心能力不是“老虎机”本身，而是把高波动随机奖励转译成连续的资源目标和关系压力：
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[消耗 Spin] --> B{随机结果}
     B -->|金币| C[村庄建设]
     B -->|攻击 / 偷取| D[与其他玩家互动]
@@ -200,7 +200,7 @@ flowchart TD
 ### 6.1 主要资源关系
 
 ```mermaid
-flowchart LR
+flowchart TD
     TI[时间 / 任务 / 社交] --> SP[Spin]
     SP --> CO[金币]
     SP --> CA[卡牌]
@@ -377,7 +377,7 @@ flowchart TD
 Coin Master 的商业化更像一条围绕玩家状态展开的决策链：
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[核心操作] --> B[获得资源]
     B --> C{资源是否足够}
     C -->|足够| D[继续建设 / 活动]
