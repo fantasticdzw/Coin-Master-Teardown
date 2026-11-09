@@ -87,7 +87,7 @@ flowchart TD
 - 探险家工具组、进度礼包与价格层级；
 - 荒野竞赛的目标、排名、检查点与领奖规则。
 
-这些原始截图和录屏不随本报告公开，正文仅使用从中学到的界面结构与规则信息。
+本报告只公开用于说明系统结构的精选截图，不使用可替代完整体验的长录屏。截图来自个人游玩记录，画面与商标版权归 Moon Active 所有，仅用于产品评论与设计分析。
 
 ### 2.3 本文不采用的信息
 
@@ -225,6 +225,14 @@ flowchart TD
 
 玩家通过药水清除障碍并收集旗帜，旗帜填满阶段进度后进入下一阶段。地图上不仅有主线道路，还可能出现通往额外奖励的特殊大门。
 
+<p align="center">
+  <img src="./assets/screenshots/wildland-main-map.png" alt="荒野大陆主地图" width="360" />
+</p>
+
+<p align="center">
+  <sub>图 1 · 主地图同时呈现旗帜进度、药水、功能入口和多类状态提示</sub>
+</p>
+
 ### 6.2 设计价值
 
 **第一，地图让进度可视化。**
@@ -250,6 +258,19 @@ flowchart TD
 
 素材中的“隐藏旅程”面板提供了另一层长线目标。可见任务覆盖收集帽子、救援兔子、收集水晶、寻找地图、破坏旧箱子等行为，奖励包含活动资源、药水与其他道具；顶部同时显示跨区域的总进度和终极大奖，底部以区域页签区分不同阶段。
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/wildland-map-overview.png" alt="荒野大陆世界地图" width="300" /><br />
+      <sub>图 2 · 世界地图与路线奖励</sub>
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/wildland-hidden-journey.png" alt="荒野大陆隐藏旅程任务" width="300" /><br />
+      <sub>图 3 · 隐藏旅程任务与区域总进度</sub>
+    </td>
+  </tr>
+</table>
+
 这层设计补上了地图推图不容易覆盖的玩家行为：
 
 - 清障是主线推进；
@@ -273,6 +294,14 @@ flowchart TD
 4. 每次使用炸弹还会积累爆破器进度；
 5. 进度满后可获得一次清理多个砖块的强化道具；
 6. 活动结束时未使用炸弹转化为 Spin。
+
+<p align="center">
+  <img src="./assets/screenshots/wildland-temple.png" alt="荒野大陆神庙炸弹与地块玩法" width="360" />
+</p>
+
+<p align="center">
+  <sub>图 4 · 神庙关卡同时展示水壶、炸弹库存、清砖进度与关卡等级</sub>
+</p>
 
 ### 7.2 业务作用
 
@@ -310,6 +339,14 @@ flowchart TD
 - 树会随时间产出药水；
 - 树等级提高后，单次可获得的药水量会增加；
 - 玩家可查看下一次升级能带来的药水收益。
+
+<p align="center">
+  <img src="./assets/screenshots/wildland-life-tree.png" alt="荒野大陆生命之树" width="360" />
+</p>
+
+<p align="center">
+  <sub>图 5 · 生命之树展示当前等级、升级进度、待领取药水与下次产出时间</sub>
+</p>
 
 ### 8.2 它解决了什么问题
 
@@ -355,6 +392,14 @@ flowchart TD
 ### 9.2 荒野之轮：额外随机奖励层
 
 本地素材显示，荒野大陆还包含“荒野之轮”子系统：转盘提供多个奖励格，并带有等级、解锁和多档消耗表现。它的作用不是替代主地图，而是在同一条长期活动线中加入另一种高频、短反馈的奖励抽取方式。
+
+<p align="center">
+  <img src="./assets/screenshots/wildland-wheel.png" alt="荒野大陆荒野之轮" width="360" />
+</p>
+
+<p align="center">
+  <sub>图 6 · 荒野之轮用转盘承载额外的随机奖励层</sub>
+</p>
 
 荒野之轮的设计价值在于：
 
@@ -498,6 +543,19 @@ flowchart TD
 ### 12.4 价格阶梯与礼包结构
 
 本地商业化截图还展示了活动工具组的 3×3 商品结构：不同层级的活动工具按价格段排列，购买次数同时推进顶部奖励进度；相邻价格档通过更高的资源量或更多奖励形成升级理由。
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/wildland-toolkit.png" alt="荒野大陆探险家工具组" width="300" /><br />
+      <sub>图 7 · 探索工具的多档商品结构</sub>
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/wildland-progress-bundle.png" alt="荒野大陆进度礼包" width="300" /><br />
+      <sub>图 8 · 阶段奖励与付费进度绑定</sub>
+    </td>
+  </tr>
+</table>
 
 截图中的单次价格从约 `$1.99` 延伸到 `$24.99`，但这些价格只代表当时、当地和服务器的可见快照，可能受地区、渠道、活动阶段或实验分组影响，不能当作固定定价。
 

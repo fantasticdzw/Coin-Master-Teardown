@@ -303,6 +303,14 @@ Coin Master 的社交系统可拆成：
 
 从结构上看，卡牌不是一次性的奖励，而是一套“收藏进度 + 社交交换 + 套装完成”的目标网络。
 
+<p align="center">
+  <img src="./assets/screenshots/coin-master-card-event.jpg" alt="Coin Master 卡牌活动界面" width="360" />
+</p>
+
+<p align="center">
+  <sub>图 1 · 卡牌活动将收藏、阶段进度与大奖预览集中在同一界面</sub>
+</p>
+
 ### 8.2 收集系统的反馈层级
 
 ```mermaid
@@ -402,6 +410,19 @@ flowchart TD
 | 团队压力 | 为团队贡献或避免拖累 | 资源包、团队活动加成 |
 | 时间限制 | 在活动结束前完成目标 | 限时折扣、立即解锁 |
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/coin-master-pass.png" alt="Coin Master 通行证" width="300" /><br />
+      <sub>图 2 · 长周期任务与免费 / 付费双轨进度</sub>
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/coin-master-return-offer.png" alt="Coin Master 欢迎回来礼包" width="300" /><br />
+      <sub>图 3 · 回流场景中的连续奖励解锁</sub>
+    </td>
+  </tr>
+</table>
+
 ### 10.3 商业化设计的有效点
 
 **情境相关性高。**  
@@ -439,6 +460,14 @@ Coin Master 的主界面并不是一个纯功能页面，而是活动总览、�
 - 限时倒计时；
 - 阶段奖励进度；
 - 玩家头像和社交信息。
+
+<p align="center">
+  <img src="./assets/screenshots/coin-master-main-ui.png" alt="Coin Master 主界面信息密度" width="360" />
+</p>
+
+<p align="center">
+  <sub>图 4 · 主界面同时承载资源、活动、状态提示与多个计时目标</sub>
+</p>
 
 ### 11.2 高信息密度的收益
 
@@ -703,6 +732,8 @@ Coin Master 的设计价值，不在于把老虎机、建造、卡牌和社交�
    <https://www.coinmastergame.com/>
 
 > 注：市场收入属于第三方估算，可能因统计时间、平台、地区及“流水 / 净收入”等口径不同而变化。本文只将其作为规模与趋势参考。
+
+> 截图说明：文中的游戏截图来自个人体验记录，仅用于产品评论与设计分析；游戏画面与商标版权归 Moon Active 所有。
 
 ---
 
