@@ -1,0 +1,61 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1B1D"/>
+      <stop offset="0.55" stop-color="#173A34"/>
+      <stop offset="1" stop-color="#58352A"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="960" y1="35" x2="1300" y2="325" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8EF7B5"/>
+      <stop offset="0.5" stop-color="#3ACB92"/>
+      <stop offset="1" stop-color="#14896E"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="1110" y1="85" x2="1260" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE48A"/>
+      <stop offset="1" stop-color="#F09B35"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#030B0B" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="360" rx="30" fill="url(#bg)"/>
+  <circle cx="1115" cy="70" r="210" fill="#43D99A" opacity="0.15" filter="url(#glow)"/>
+  <circle cx="875" cy="330" r="180" fill="#FFB15A" opacity="0.12" filter="url(#glow)"/>
+  <g opacity="0.1" stroke="#FFFFFF">
+    <path d="M0 90H1400M0 180H1400M0 270H1400"/>
+    <path d="M90 0V360M180 0V360M270 0V360M1170 0V360M1260 0V360M1350 0V360"/>
+  </g>
+  <rect x="70" y="55" width="208" height="31" rx="16" fill="#FFFFFF" fill-opacity="0.1" stroke="#FFFFFF" stroke-opacity="0.24"/>
+  <text x="174" y="76" text-anchor="middle" fill="#E7F6ED" font-family="Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1.7">ACTIVITY DEEP DIVE</text>
+  <text x="72" y="154" fill="#FFFFFF" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="54" font-weight="800">荒野大陆</text>
+  <text x="350" y="151" fill="#FFFFFF" fill-opacity="0.58" font-family="Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="3">WILDLAND ADVENTURE</text>
+  <text x="74" y="201" fill="#EDF8F1" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="23" font-weight="600">常驻地图、资源循环与限时竞赛的长期活动拆解</text>
+  <text x="75" y="249" fill="#AFCDBE" font-family="Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="2.3">POTION → PATH → TEMPLE → TREE → RACE</text>
+  <g transform="translate(890 66)" filter="url(#shadow)">
+    <path d="M40 237C68 178 103 140 174 121C228 106 277 119 310 159" stroke="#E6C67A" stroke-width="18" stroke-linecap="round" stroke-dasharray="1 25"/>
+    <path d="M36 238C84 207 131 190 181 184C231 178 277 191 312 224" stroke="#74E4B3" stroke-width="3" stroke-dasharray="7 10"/>
+    <circle cx="67" cy="223" r="8" fill="#FFD35A"/>
+    <circle cx="148" cy="187" r="6" fill="#6FF4FF"/>
+    <circle cx="232" cy="180" r="6" fill="#FF8FB8"/>
+  </g>
+  <g transform="translate(1092 71)" filter="url(#shadow)">
+    <rect x="34" y="24" width="158" height="224" rx="24" fill="#102A26" stroke="#8EF7B5" stroke-opacity="0.42" stroke-width="2"/>
+    <rect x="52" y="52" width="122" height="33" rx="12" fill="#214A3B"/>
+    <rect x="52" y="98" width="122" height="7" rx="3.5" fill="#62E3AA"/>
+    <path d="M113 124C88 145 78 169 79 201H147C148 169 138 145 113 124Z" fill="url(#leaf)"/>
+    <rect x="105" y="192" width="16" height="35" rx="6" fill="#8A5A35"/>
+    <circle cx="94" cy="162" r="7" fill="#FFE48A"/>
+    <circle cx="131" cy="177" r="6" fill="#FFE48A"/>
+  </g>
+  <g transform="translate(1236 199) rotate(8 54 54)" filter="url(#shadow)">
+    <rect width="108" height="108" rx="30" fill="url(#gold)"/>
+    <rect x="48" y="24" width="12" height="33" rx="6" fill="#45423C"/>
+    <path d="M36 54C36 38 72 38 72 54V76C72 92 36 92 36 76V54Z" fill="#29352A"/>
+    <path d="M72 61L87 55V78L72 71" stroke="#F1D06A" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <circle cx="85" cy="300" r="16" fill="#66E4A8" opacity="0.8"/>
+  <circle cx="868" cy="42" r="5" fill="#FFD35A"/>
+</svg>

@@ -32,6 +32,16 @@
 - 链接：<https://www.coinmastergame.com/>
 - 用途：确认产品基本定位、玩法和发行商信息。
 
+### 4. Coin Master 官方帮助中心：荒野历险
+
+- 链接：<https://support.coinmastergame.com/hc/zh-tw/articles/13216931752978-%E8%8D%92%E9%87%8E%E6%AD%B7%E9%9A%AA%E6%98%AF%E4%BB%80%E9%BA%BC>
+- 用途：确认药水、地图、旗帜、炸弹、神庙、生命之树、奖励和荒野竞赛的公开规则。
+
+### 5. Coin Master 官方帮助中心：荒野历险更新指南
+
+- 链接：<https://support.coinmastergame.com/hc/zh-tw/articles/24705373686162-%E8%8D%92%E9%87%8E%E6%AD%B7%E9%9A%AA%E6%9B%B4%E6%96%B0%E6%8C%87%E5%8D%97>
+- 用途：确认地图导航、传送、特殊大门、新路线与分支奖励等公开设计。
+
 ## 研究方法
 
 - 以新账号和中期账号的不同体验阶段观察功能解锁与目标变化。
