@@ -33,7 +33,7 @@
   <text x="72" y="154" fill="#FFFFFF" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="54" font-weight="800">荒野大陆</text>
   <text x="350" y="151" fill="#FFFFFF" fill-opacity="0.58" font-family="Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="3">WILDLAND ADVENTURE</text>
   <text x="74" y="201" fill="#EDF8F1" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="23" font-weight="600">常驻地图、资源循环与限时竞赛的长期活动拆解</text>
-  <text x="75" y="249" fill="#AFCDBE" font-family="Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="2.3">POTION → PATH → TEMPLE → TREE → RACE</text>
+  <text x="75" y="249" fill="#AFCDBE" font-family="Arial,sans-serif" font-size="13" font-weight="800" letter-spacing="2.1">MAP · TASK · TEMPLE · TREE · WHEEL · RACE</text>
   <g transform="translate(890 66)" filter="url(#shadow)">
     <path d="M40 237C68 178 103 140 174 121C228 106 277 119 310 159" stroke="#E6C67A" stroke-width="18" stroke-linecap="round" stroke-dasharray="1 25"/>
     <path d="M36 238C84 207 131 190 181 184C231 178 277 191 312 224" stroke="#74E4B3" stroke-width="3" stroke-dasharray="7 10"/>

@@ -49,7 +49,7 @@ Coin Master 将老虎机的即时随机反馈、村庄建造的长期目标、�
 
 | 活动 | 分析重点 | 报告 |
 | :--- | :--- | :--- |
-| **荒野大陆（Wildland Adventure）** | 地图推图、神庙探索、生命之树与限时竞赛如何组成长期活动；提出 Wildland Compass 优化方案。 | [阅读专题报告](./wildland-adventure-report.md) |
+| **荒野大陆（Wildland Adventure）** | 地图推图、隐藏旅程、神庙、生命之树、荒野之轮与限时竞赛如何组成长期活动；提出 Wildland Compass 优化方案。 | [阅读专题报告](./wildland-adventure-report.md) |
 
 ## 这份案例展示什么
 
